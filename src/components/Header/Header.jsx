@@ -1,5 +1,5 @@
 import Picture from "../Picture/Picture";
-import Button from "./Button";
+import Button from "../Btn/Button";
 import Logo from "../../assets/logo.svg"
 import "./Header.css"
 import Menu from "./menu/Link";
