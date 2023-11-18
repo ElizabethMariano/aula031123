@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,200;0,300;0,400;0,600;1,400&display=swap');
+
+
+
+.header{
+    background-color: #170550;
+    color: #ffffff;
+    display:flex;
+    height: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+Button {
+    background-color: #ffffff;
+    font-family: 'Exo 2', sans-serif;
+    color: #461959;
+    width: 150px;
+    height: 40px;
+    top: 22px;
+    Left: 1184px; 
+    border-radius: 20px;
+    weight: 600;
+    size: 18px;
+    border: none;
+
+    
+    
+
+    
+}
